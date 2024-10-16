@@ -18,9 +18,8 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## 📊 GitHub Stats
-
-[//]: ![AlexMinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMinn&show_icons=true&theme=radical)
-
+ <!-- ![AlexMinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMinn&show_icons=true&theme=radical)
+ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&layout=compact&theme=radical)
 
 [//]: ## 🏆 GitHub Profile Trophy
