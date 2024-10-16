@@ -1,9 +1,3 @@
-- 💻 Informatics Engineering and Statistics student at the University of Valladolid (Spain)
-- 📊 Passionate about analyzing data and transforming complex datasets into meaningful insights that can drive decision-making.
-- 🚀 Constantly learning and exploring new technologies and programming languages to expand my skill set.
-- 🌱 I’m currently learning machine learning techniques, focusing on improving my skills in Python, R, and SQL, as well as diving deeper into data visualization and big data technologies
-- 🔧 Developing side projects, software development and statistical analysis.
-
 
 ## 💻​ Tech Stack 
 
@@ -22,4 +16,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+## 📊 GitHub Stats
+
+![AlexMinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMinn&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&layout=compact&theme=radical)
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexMinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+## 📚​ Summary
+
+- 💻 Informatics Engineering and Statistics student at the University of Valladolid (Spain)
+- 📊 Passionate about analyzing data and transforming complex datasets into meaningful insights that can drive decision-making.
+- 🚀 Constantly learning and exploring new technologies and programming languages to expand my skill set.
+- 🌱 I’m currently learning machine learning techniques, focusing on improving my skills in Python, R, and SQL, as well as diving deeper into data visualization and big data technologies
+- 🔧 Developing side projects, software development and statistical analysis.
 
