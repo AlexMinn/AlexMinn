@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning machine learning techniques, focusing on improving my skills in Python, R, and SQL, as well as diving deeper into data visualization and big data technologies
 - 🔧 Developing side projects, software development and statistical analysis.
 
+
+## 💻​ Tech Stack 
+![Python]
+
