@@ -25,6 +25,7 @@
 ![Xpress Mosel](https://img.shields.io/badge/FICO_Xpress-1E90FF?style=for-the-badge&logo=generic&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-003399?style=for-the-badge&logo=generic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Statgraphics](https://img.shields.io/badge/Statgraphics-003DA5?style=for-the-badge&logo=generic&logoColor=white)
 
 
 
