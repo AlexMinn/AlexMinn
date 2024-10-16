@@ -23,7 +23,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-007ACC?style=for-the-badge&logo=sas&logoColor=white)
-![Xpress Mosel](https://img.shields.io/badge/Xpress_Mosel-1E90FF?style=for-the-badge&logo=generic&logoColor=white)
+![Xpress Mosel](https://img.shields.io/badge/FICO_Xpress-1E90FF?style=for-the-badge&logo=generic&logoColor=white)
 
 
 
