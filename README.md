@@ -41,7 +41,7 @@
  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&layout=compact&theme=radical)
 <!--
-[//]: ## 🏆 GitHub Profile Trophy
+[//]: ## 🏆 GitHub Profile Trophy  
 
 [//]: [![trophy](https://github-profile-trophy.vercel.app/?username=AlexMinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
