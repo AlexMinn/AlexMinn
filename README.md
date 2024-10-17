@@ -40,7 +40,8 @@
  <!-- --> 
  ![AlexMinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMinn&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&theme=onedark&v=1)
+
 
 <!-- -->
  ## 🏆 GitHub Profile Trophy  
