@@ -40,11 +40,11 @@
  <!-- --> 
  ![AlexMinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMinn&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMinn&layout=compact&theme=radical)
+![Top Langs]()
 <!-- -->
-[//]: ## 🏆 GitHub Profile Trophy  
+ ## 🏆 GitHub Profile Trophy  
 
-[//]: [![trophy](https://github-profile-trophy.vercel.app/?username=AlexMinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexMinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
